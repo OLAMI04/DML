@@ -89,6 +89,7 @@ Using Office Scripts, you can script Excel to automatically calculate these KPIs
 To create an ad-hoc report, you can design an Office Script to pull the KPI metrics into a formatted summary sheet with
 KPIs in Card view alongside visualizations:
 
+![Dashboard](https://github.com/OLAMI04/DML/blob/main/Fullfilment%20Dashboard.JPG)
 
 
 
