@@ -50,3 +50,34 @@ The current location of the delivery driver during order delivery.
 The total time taken for delivery measured in minutes (e.g., "120 min").
 ### Delays: 
 Any delays that occurred during the delivery, measured in minutes (e.g., "15 min").
+### Customer Feedback:
+Feedback from the customer regarding the delivery experience (e.g., "Positive" or "Negative").
+### Route: 
+The specific route taken by the delivery driver for the order.
+### Delivery Zone: 
+The geographic zone or area where the delivery is made.
+### Allocation Rules:
+ the delivery (e.g., "Standard Rules" or "Expedited Rules").
+### Timestamp for Tracking: 
+The date and time of tracking data points (e.g., "2023-09-01 08:15").
+## Tech Stack
+Utilized for creating the interactive dashboard, data visualization, and reporting.
+### Data Processing Tools: 
+Leveraging Excel's data manipulation and analysis functions.
+### Visualization Tools: 
+Employing Excel's charts, graphs, and pivot tables for order and delivery data visualization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
