@@ -67,7 +67,27 @@ Leveraging Excel's data manipulation and analysis functions.
 ### Visualization Tools: 
 Employing Excel's charts, graphs, and pivot tables for order and delivery data visualization.
 
-
+# Project Enhancement
+To enhance the project deliverable, you are required to automate KPI generation and the creation of an Ad-hoc report using Office Scripts in Microsoft Excel:
+## Define KPIs for Automation
+Given the project’s focus, here are some potential KPIs that could be automated:
+### Order Completion Rate: 
+Percentage of orders delivered on time.
+### Average Delivery Time: 
+Average time taken per delivery.
+### Delay Impact: 
+Average delay time per order and the percentage of delayed orders.
+### Customer Satisfaction Score: 
+Percentage of positive feedback.
+### Backlog Rate: 
+Number of backlogged orders as a percentage of total orders.
+### Resource Allocation Efficiency: 
+Analysis of delivery zones and driver allocation.
+## Automate KPI Calculation
+Using Office Scripts, you can script Excel to automatically calculate these KPIs.
+## Generate Ad-Hoc Report with Office Script
+To create an ad-hoc report, you can design an Office Script to pull the KPI metrics into a formatted summary sheet with
+KPIs in Card view alongside visualizations:
 
 
 
