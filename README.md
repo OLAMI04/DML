@@ -3,3 +3,6 @@
 Streamline Logistics Solutions is a distinguished and long-standing player in the supply chain and logistics industry, with a rich history dating back over two decades.
 We have built our reputation on a commitment to delivering exceptional service, characterized by the swift and dependable, delivery of a wide array of products to customers nationwide.
 Our company stands as a pillar of reliability, ensuring that businesses and consumers alike can count on us to transport their goods efficiently and with care.
+## Business Problem
+Mounting Order Backlogs:
+Our current routing and resource allocation processes have resulted in a growing backlog of orders, compromising delivery timelines and, in turn, customer satisfaction.
