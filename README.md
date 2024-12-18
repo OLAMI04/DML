@@ -28,3 +28,25 @@ Improved efficiency leads to cost savings and heightened profitability, bolsteri
 Harnessing data-driven insights empowers us to optimize resource allocation and routing, ensuring timely deliveries and improved resource management.
 ### Reputation Management: 
 Addressing these operational challenges is paramount to preserving Streamline Logistics Solutions' sterling reputation for delivering excellence consistently.
+
+## Aim of Project
+This project's primary objectives are to develop an Excel interactive dashboard that provides unparalleled visibility into our order fulfilment processes. Through this, we aim to:
+This case study contains a single dataset and it comprises of;
+### Order ID:
+A unique identifier for each customer order.
+### Delivery Address: 
+The address to which the order is to be delivered.
+### Order Timestamp: 
+The date and time when the orderwas placed (e.g., "2023-09-01 08:00").
+### Order Status: 
+The current status of the order (e.g., "In Progress" or "Completed").
+###  Driver ID: 
+A unique identifier for each driver assigned to deliver orders.
+### Vehicle Info: 
+Information about the delivery vehicle used for the order.
+### Current Location: 
+The current location of the delivery driver during order delivery.
+### Delivery Time: 
+The total time taken for delivery measured in minutes (e.g., "120 min").
+### Delays: 
+Any delays that occurred during the delivery, measured in minutes (e.g., "15 min").
